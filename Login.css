@@ -1,0 +1,24 @@
+.login {
+    background-color: mediumpurple;
+text-align: center;
+
+
+}
+    .login > img {
+    
+    height:450px;
+    width: 100%;
+    }
+
+
+    .login > a {
+        padding: 20px;
+        width:200px;
+        align-self:center;
+        border-radius: 99px;
+        background-color: forestgreen;
+        font-weight: 800;
+        color: white;
+        text-decoration: none;
+    }
+

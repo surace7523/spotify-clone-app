@@ -1,0 +1,38 @@
+.header{
+
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+
+
+}
+.header_left {
+
+flex:0.5;
+min-width: 80px;
+background-color: #ffffff;
+color: #808080;
+border-radius: 30px;
+display: flex;
+align-items: center;
+padding:15px;
+
+}
+
+    .header_left > input {
+    
+    border: none;
+    width:100%;
+    
+    }
+
+
+
+
+.header_right {
+
+    margin-right:30px;
+    align-items: center;
+   
+    
+}
